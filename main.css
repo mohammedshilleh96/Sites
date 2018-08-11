@@ -1,0 +1,13 @@
+body {
+  background-color: #d3d3d3;
+  color:#00f;
+}
+.one {
+  border: solid 1px;
+}
+.two {
+  border: solid 2px;
+}
+.five {
+  border: solid 5px;
+}
